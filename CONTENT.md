@@ -1,4 +1,4 @@
-# Content for Tutorial 02
+# Table of contentsContent for Tutorial 02
 
 Site Header `h2`
 
@@ -14,7 +14,7 @@ Site Menu `h3`
 
 Random City of Ottawa Things `h1`
 
-Table of contents `h2`
+ `h2`
 
 - Housing Construction Summary for Q1 2023
 - Wards
